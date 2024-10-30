@@ -18,7 +18,7 @@
 
    ```bash
    git clone https://github.com/bagdasarian/ak-http-server.git
-   cd armenian-club-http-server
+   cd ak-http-server
    ```
 2. **Запустите HTTP-сервер**: Убедитесь, что у вас установлен Python 3. Затем выполните команду:
    ```bash
