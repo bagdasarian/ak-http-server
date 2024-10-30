@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffeadb; /* светлый оранжевый фон */
+  color: #2e2e2e;
+  text-align: left;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  text-align: left;
+  color: #c12020; /* красный цвет для заголовков */
+}
+
+.logo {
+  width: 150px;
+  height: 170px;
+  float: left;
+  margin-right: 15px;
+  transition: transform 0.3s ease; /* Плавный эффект трансформации */
+}
+
+.logo:hover {
+  transform: scale(1.1); /* Увеличение до 110% при наведении */
+}
+
+h1 {
+  color: #0044cc; /* синий цвет для заголовка */
+  font-size: 2em;
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: square;
+  color: #ff6600; /* оранжевый цвет для текста списка */
+}
+
+#counter {
+  font-size: 1.2em;
+  color: #2e2e2e;
+  margin-top: 15px;
+}
+
+#count {
+  font-weight: bold;
+  color: #c12020;
+}
+
